@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What is the time complexity of bubble sort?",
+    "options": ["O(n)", "O(n^2)", "O(log n)", "O(n log n)"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which sorting algorithm is known for its simplicity and ability to handle nearly sorted arrays efficiently?",
+    "options": ["Merge Sort", "Insertion Sort", "Quick Sort", "Selection Sort"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the worst-case time complexity of quicksort?",
+    "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which searching algorithm requires the data structure to be sorted beforehand?",
+    "options": ["Linear Search", "Binary Search", "Depth-First Search", "Breadth-First Search"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which searching algorithm is preferred for large datasets due to its linear time complexity?",
+    "options": ["Linear Search", "Binary Search", "Depth-First Search", "Breadth-First Search"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(n log n)", "O(log n)", "O(n^2)"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "options": ["Merge Sort", "Quick Sort", "Heap Sort", "Insertion Sort"],
+    "answer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What data structure is typically used to implement a priority queue?",
+    "options": ["Array", "Stack", "Queue", "Heap"],
+    "answer": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the time complexity of heap sort?",
+    "options": ["O(n)", "O(n log n)", "O(log n)", "O(n^2)"],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the space complexity of merge sort?",
+    "options": ["O(n)", "O(n log n)", "O(log n)", "O(n^2)"],
+    "answer": 0,
+    "difficulty": "hard"
+  },
+  {
+    "question": "True or False: Bubble sort is always the most efficient sorting algorithm.",
+    "options":["True","False"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Algorithm using a divide-and-conquer strategy?(answer as 'xyz sort')",
+    "options":[],
+    "answer": "merge sort",
+    "difficulty": "easy"
+  },
+  {
+    "question": "One word: Sorting algorithm with a pivot.(answer as 'xyz sort')",
+    "options":[],
+    "answer": "quick sort",
+    "difficulty": "easy"
+  }
+]
